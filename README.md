@@ -1,16 +1,15 @@
-## Hi there 👋
+###Boas vindas ao meu perfil!
 
-<!--
-**alisiisinho/alisiisinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu mome é Alison Rafael
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem
+Utilizo esse espaço para minha organização e compartilhamos dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Você pode entrar em contato comigo📬
+
+00001114237668sp@al.educacao.sp.gov.br
+
+@alison_rafaeeel
+
+![](https://media1.tenor.com/m/L1SOy0Q8O7gAAAAC/eyebrow-raise-shrek.gif)
